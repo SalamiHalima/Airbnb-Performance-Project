@@ -20,7 +20,6 @@ The most important step of the Data Pre-processing was to convert some of the nu
 Yet post conversion, we kept the numeric one’s handy tool for analysing. 
 
 ### Area Of Concentration:
-
 In what time period the properties have received more or less number or reviews? 
 Which months receives more bookings?
 Which hosts have received the more reviews? 
@@ -28,7 +27,7 @@ Which locations are of high price?
 What type of properties are preferred by the customers? 
 Which properties are available for more days in a year and in which location? 
 Which properties and room types have more or less minimum night stay?
- Which are the locations that are not performing well based on reviews and other parameters? 
+Which are the locations that are not performing well based on reviews and other parameters? 
 Which are the room types that are not performing well? 
 Which parameter makes the customer prefer the property and provide a review? 
 
@@ -38,12 +37,10 @@ The average number of reviews started increasing exponentially after 2015-2016.
 After that it is slowly going up and most of the last reviews are received in the recent years of the data that is 2019 and 2018.
 
 ### Total Bookings By Month And Neighbourhood Group
-
 The 6th month of the year i.e June receives most of the reservation in all followed by 7th month. Manhattan have the overall highest  Bookings across almost all the months.
-  Which means, majority of the customers provide higher number of reservation during the summer period between the months of May till July or in the starting of the year which shows the higher booking window in a year. 
+Which means, majority of the customers provide higher number of reservation during the summer period between the months of May till July or in the starting of the year which shows the higher booking window in a year. 
 
 ### Top 10 Host By Reviews
-
 Michael, David, Alex, John and Daniel are the Top 5 hosts that seem to have received the highest number of reviews for their listed sites.
 Most of the Host have Less than 3 reviews per month which indicates bad customer experience offered by majority sites. 
  Also, Majority of the sites have received less than 50 reviews till date which is kind of less.
@@ -51,7 +48,8 @@ Most of the Host have Less than 3 reviews per month which indicates bad customer
 ### Average Price By Neighbourhood Group And Room Type
 Manhattan has the highest average price of $197, then Brookyln with $124 for all room type. 
 Queens and Bronx has the lowest average price $100 and $89 respectively.
-Manhattan is the only Neighborhood in the Borough that lies in offering the Highest Price range properties on the platform followed by others with a Medium Price range on average. Prices offered above 120$ on average are considered to be a High Price, between 80$ to 120$, Medium Price range and less than 80$ to be considered Low Price range property.
+Manhattan is the only Neighborhood in the Borough that lies in offering the Highest Price range properties on the platform followed by others with a Medium Price range on average. 
+Prices offered above 120$ on average are considered to be a High Price, between 80$ to 120$, Medium Price range and less than 80$ to be considered Low Price range property.
 
 
 ### All Listings And Average Price
@@ -72,14 +70,13 @@ Manhattan and Brooklyn are places providing the highest average number of minimu
 ### Reviews By Neighbourhood Group
 Manhattan and Brooklyn has received the highest number of reviews and this is in relation to the availability to stay large amount of days in a year
 We can confirm that the greatest parameter for any customer to prefer a property and provide a review is having a maximum or minimum night stay window booking and their probability of being open for more days in a year to some extent.
-![Uploading image.png…]()
 
 ### Percentage Of Booking By Neighbourhood Group and Room Type
 Majority of the sites hosted are either Entire apartments or Private rooms and very less Shared rooms across the 5 groups.
 Manhattan and Brooklyn has received the highest number of booking and this can be based on the availability to stay open for large number of days in a year. 
 
 
-### Recommendation
+## Recommendation
 property owners in Staten Island, Queens and Bronx to identify their challenges for being fully functional for maximum number of days in a year and allow a booking of more than 10 days of minimum night stay. 
 Create some sort of interaction between the Top 5 hosts to share their experience with the rest of the community for better improvement and value generating ideas. 
 Provide discounted commission rates to property owners on keeping the minimum night stay booking window for more than 10 days and property functional for maximum number of days in a year.
