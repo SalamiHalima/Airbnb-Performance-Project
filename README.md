@@ -32,7 +32,11 @@ Which properties and room types have more or less minimum night stay?
 Which are the room types that are not performing well? 
 Which parameter makes the customer prefer the property and provide a review? 
 
-### Reviews By Year![image](https://github.com/SalamiHalima/Airbnb-Performance-Project/assets/117028460/fc8ba870-71da-4c4f-8df0-19707f7dd70e)
+### Reviews By Year
+Initial years which were 2011 till 2014, last reviews were negligible.
+The average number of reviews started increasing exponentially after 2015-2016. 
+After that it is slowly going up and most of the last reviews are received in the recent years of the data that is 2019 and 2018.
+![image](https://github.com/SalamiHalima/Airbnb-Performance-Project/assets/117028460/a71fa51b-2484-4ec6-90b9-ea3945ba6bdf)
 
 
 
