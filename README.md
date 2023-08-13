@@ -21,5 +21,18 @@ Yet post conversion, we kept the numeric one’s handy tool for analysing.
 
 ### Area Of Concentration:
 
-![image]
+In what time period the properties have received more or less number or reviews? 
+Which months receives more bookings?
+Which hosts have received the more reviews? 
+Which locations are of high price? 
+What type of properties are preferred by the customers? 
+Which properties are available for more days in a year and in which location? 
+Which properties and room types have more or less minimum night stay?
+ Which are the locations that are not performing well based on reviews and other parameters? 
+Which are the room types that are not performing well? 
+Which parameter makes the customer prefer the property and provide a review? 
+
+### Reviews By Year![image](https://github.com/SalamiHalima/Airbnb-Performance-Project/assets/117028460/fc8ba870-71da-4c4f-8df0-19707f7dd70e)
+
+
 
