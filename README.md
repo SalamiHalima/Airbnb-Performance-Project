@@ -21,5 +21,5 @@ Yet post conversion, we kept the numeric one’s handy tool for analysing.
 
 ### Area Of Concentration:
 
-(https://github.com/SalamiHalima/Airbnb-Performance-Project/assets/117028460/de6b3f85-7d11-4ddd-a1cd-24aff1e52172)
+![image]
 
